@@ -1,0 +1,4 @@
+https://austinhenley.com/blog/teenytinycompiler1.html
+
+left off after implimenting >= and ==. 
+There are bugs
